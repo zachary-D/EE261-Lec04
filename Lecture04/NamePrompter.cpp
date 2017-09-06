@@ -59,7 +59,7 @@ int main()
 	getline(cin, input);
 	name::last = input;
 
-	//Print the user's name
+	//Print the user's information
 	cout << "Hello, " << name::packageFirst() << endl;
 
 	cout << "Alternate form: " << name::packageLast() << endl;
