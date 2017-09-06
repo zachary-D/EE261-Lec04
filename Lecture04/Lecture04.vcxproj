@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chessBoard.cpp" />
+    <ClCompile Include="NamePrompter.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{B1DA3BA3-6796-44DF-B6A6-C44B8FEC8A57}</ProjectGuid>
